@@ -1,4 +1,4 @@
-# Red-Store (A complete E-commerce UI tooklit )
+# Red-Store (A complete E-commerce UI toolkit )
 
 This is a complete e-commerce website made using HTML, CSS and Javascript.
 
